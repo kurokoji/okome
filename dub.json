@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"kurokoji"
+	],
+	"copyright": "Copyright © 2024, kurokoji",
+	"dependencies": {
+		"dlangui": "~>0.10.7"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "okome"
+}
